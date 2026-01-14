@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sks111/House_Market_-Analysis-using-Power-BI/main/Walmart_logo_(2008).svg.png" width="350" alt="Walmart Logo"/>
+  <img src="https://github.com/sks111/Walmart-Sales-Analysis/blob/main/Walmart_logo_(2008).svg.png" width="350" alt="Walmart Logo"/>
 </div>
 
 ---
 
 # 🛒 Walmart Sales Analysis  
-### End-to-End Data Analytics Project (Python EDA + MySQL)
+### End-to-End Data Analytics Project (Python + MySQL)
 
 ![Python](https://img.shields.io/badge/Python-EDA-3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-Business%20Analysis-4479A1)
@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Executive Summary
+## 📌Summary
 
 This project presents a **comprehensive Walmart Sales Analysis** designed to demonstrate a **structured, real-world data analytics workflow**.  
 The analysis follows a two-phase approach:
