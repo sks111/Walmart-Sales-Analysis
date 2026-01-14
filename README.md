@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github.com/sks111/Walmart-Sales-Analysis/blob/main/Walmart_logo_(2008).svg.png" width="350" alt="Walmart Logo"/>
 </div>
-
 ---
 
 # 🛒 Walmart Sales Analysis  
